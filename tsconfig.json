@@ -1,25 +1,54 @@
-{
-  "compilerOptions": {
-    "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "module": "esnext",
-    "moduleResolution": "node",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "noEmit": true,
-    "jsx": "react"
+// {
+//   "compilerOptions": {
+//     "target": "es5",
+//     "lib": [
+//       "dom",
+//       "dom.iterable",
+//       "esnext"
+//     ],
+//     "allowJs": true,
+//     "skipLibCheck": true,
+//     "esModuleInterop": true,
+//     "allowSyntheticDefaultImports": true,
+//     "strict": true,
+//     "forceConsistentCasingInFileNames": true,
+//     "module": "esnext",
+//     "moduleResolution": "node",
+//     "resolveJsonModule": true,
+//     "isolatedModules": true,
+//     "noEmit": true,
+//     "jsx": "react"
+//   },
+//   "include": [
+//     "src"
+//   ]
+// }
+{ 
+  "compilerOptions":{ 
+     "target":"es6",
+     "moduleResolution":"node",
+     "module":"commonjs",
+     "declaration":false,
+     "noLib":false,
+     "emitDecoratorMetadata":true,
+     "experimentalDecorators":true,
+     "sourceMap":true,
+     "pretty":true,
+     "allowUnreachableCode":true,
+     "allowUnusedLabels":true,
+     "noImplicitAny":true,
+     "noImplicitReturns":false,
+     "noImplicitUseStrict":false,
+     "outDir":"dist/",
+     "baseUrl":"src/",
+     "listFiles":false,
+     "noEmitHelpers":true
   },
-  "include": [
-    "src"
-  ]
+  "include":[ 
+     "src/**/*"
+  ],
+  "exclude":[ 
+     "node_modules"
+  ],
+  "compileOnSave":false
 }
