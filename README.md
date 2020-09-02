@@ -1,6 +1,8 @@
 Aplicação Estudada, acesso no link abaixo !
 
 [![Discord](http://img.youtube.com/vi/x4FdZd2-_uU/0.jpg)](http://www.youtube.com/watch?v=x4FdZd2-_uU "Aplicação do Discord")
+![dd](https://user-images.githubusercontent.com/38596921/91956546-2de1ff00-ecdb-11ea-93f1-945223f0860b.png)
+
 
 Este projeto foi bootstrapped com [Create React App](https://github.com/facebook/create-react-app).
 
