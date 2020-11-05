@@ -1,7 +1,7 @@
 📌 UI Do Discord 
 ![dd](https://user-images.githubusercontent.com/38596921/91956546-2de1ff00-ecdb-11ea-93f1-945223f0860b.png)
 
-### [Live Demo](https://nostalgic-northcutt-1b6e49.netlify.app)
+### [Live Demo](https://determined-fermi-f2ff4f.netlify.app)
 
 ## Features
 * ThemeProvider
