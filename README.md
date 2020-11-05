@@ -3,7 +3,7 @@
 
 ### 🎈 [Live Demo](https://determined-fermi-f2ff4f.netlify.app)
 
-## Features
+##💻  Features
 * ThemeProvider
 * ReactJS 
 * react-router-dom
@@ -11,7 +11,7 @@
 * Styled Components
 * Mudar tema do APP para dark ou light ao clicar no icone do github  
 
-💻 [![LESSON STUDIED](http://img.youtube.com/vi/x4FdZd2-_uU/0.jpg)](http://www.youtube.com/watch?v=x4FdZd2-_uU "Aplicação do Discord")
+[![LESSON STUDIED](http://img.youtube.com/vi/x4FdZd2-_uU/0.jpg)](http://www.youtube.com/watch?v=x4FdZd2-_uU "Aplicação do Discord")
 
 Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
 
