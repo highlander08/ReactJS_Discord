@@ -3,7 +3,7 @@
 
 ### 🎈 [Live Demo](https://determined-fermi-f2ff4f.netlify.app)
 
-##💻  Features
+## 💻  Features
 * ThemeProvider
 * ReactJS 
 * react-router-dom
