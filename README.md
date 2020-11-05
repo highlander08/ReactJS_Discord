@@ -4,12 +4,10 @@
 ### 🎈 [Live Demo](https://determined-fermi-f2ff4f.netlify.app)
 
 ## 💻  Features
-* ThemeProvider
+* Utilizando Grid 
 * ReactJS 
-* react-router-dom
 * Typescript
 * Styled Components
-* Mudar tema do APP para dark ou light ao clicar no icone do github  
 
 [![LESSON STUDIED](http://img.youtube.com/vi/x4FdZd2-_uU/0.jpg)](http://www.youtube.com/watch?v=x4FdZd2-_uU "Aplicação do Discord")
 
