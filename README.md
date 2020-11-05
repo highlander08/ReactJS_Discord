@@ -9,7 +9,7 @@
 * Typescript
 * Styled Components
 
-[![LESSON STUDIED](http://img.youtube.com/vi/x4FdZd2-_uU/0.jpg)](http://www.youtube.com/watch?v=x4FdZd2-_uU "Aplicação do Discord")
+[![LESSON STUDIED](http://img.youtube.com/vi/x4FdZd2-_uU/0.jpg)](http://www.youtube.com/watch?v=x4FdZd2-_uU "LESSON STUDIED")
 
 Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
 
